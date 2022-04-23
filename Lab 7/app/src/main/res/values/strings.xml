@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Restaurant @NITT</string>
+    <string-array name="menu_types">
+        <item>Veg</item>
+        <item>Non-Veg</item>
+    </string-array>
+    <string-array name="drinks">
+        <item>Lemonade</item>
+        <item>Jaljeera</item>
+        <item>Orange Juice</item>
+        <item>Coconut Water</item>
+    </string-array>
+    <string-array name="starters">
+        <item>Gobi 65</item>
+        <item>Paneer 65</item>
+        <item>Manchurian</item>
+    </string-array>
+    <string-array name="main_dishes">
+        <item>Chilli Paneer</item>
+        <item>Dal Makhani</item>
+        <item>Malai Kofta</item>
+    </string-array>
+    <string-array name="desserts">
+        <item>Gulab Jamun</item>
+        <item>Ice cream</item>
+        <item>Cheeseake</item>
+    </string-array>
+
+
+</resources>
